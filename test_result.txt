@@ -1,0 +1,1917 @@
+Started phase 0, duration: 1s @ 06:08:11(-0700) 2018-06-24
+Report @ 06:08:13(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 142.86
+  Request latency:
+    min: 1.8
+    max: 35.6
+    median: 2.9
+    p95: 7.9
+    p99: 22.9
+  Codes:
+    200: 200
+
+All virtual users finished
+Summary report @ 06:08:13(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 1.8
+    max: 35.6
+    median: 2.9
+    p95: 7.9
+    p99: 22.9
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    200: 200
+
+Started phase 0, duration: 1s @ 06:17:21(-0700) 2018-06-24
+Report @ 06:17:28(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:17:28(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:18:47(-0700) 2018-06-24
+Report @ 06:18:54(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:18:54(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:19:32(-0700) 2018-06-24
+Report @ 06:19:39(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:19:39(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:20:24(-0700) 2018-06-24
+Report @ 06:20:31(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:20:31(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:21:11(-0700) 2018-06-24
+Report @ 06:21:19(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:21:19(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:22:01(-0700) 2018-06-24
+Report @ 06:22:08(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:22:08(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:22:41(-0700) 2018-06-24
+Report @ 06:22:49(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:22:49(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:23:56(-0700) 2018-06-24
+Report @ 06:24:03(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:24:03(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:26:00(-0700) 2018-06-24
+Report @ 06:26:07(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:26:07(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:27:16(-0700) 2018-06-24
+Report @ 06:27:23(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:27:23(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:27:46(-0700) 2018-06-24
+Report @ 06:27:53(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:27:53(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:30:41(-0700) 2018-06-24
+Report @ 06:30:48(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:30:48(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:34:31(-0700) 2018-06-24
+Report @ 06:34:38(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:34:38(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:35:48(-0700) 2018-06-24
+Report @ 06:35:56(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:35:56(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:36:36(-0700) 2018-06-24
+Report @ 06:36:43(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:36:43(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:36:53(-0700) 2018-06-24
+Report @ 06:37:00(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.45
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ENOTFOUND: 10
+
+All virtual users finished
+Summary report @ 06:37:00(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 0
+  Requests completed:  0
+  RPS sent: 1.44
+  Request latency:
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 10 (100%)
+  Errors:
+    ENOTFOUND: 10
+
+Started phase 0, duration: 1s @ 06:38:27(-0700) 2018-06-24
+Report @ 06:38:29(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 144.93
+  Request latency:
+    min: 1.7
+    max: 25.5
+    median: 2.5
+    p95: 7.9
+    p99: 14.3
+  Codes:
+    200: 200
+
+All virtual users finished
+Summary report @ 06:38:29(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 1.7
+    max: 25.5
+    median: 2.5
+    p95: 7.9
+    p99: 14.3
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    200: 200
+
+Started phase 0, duration: 1s @ 06:38:38(-0700) 2018-06-24
+Report @ 06:38:40(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 144.93
+  Request latency:
+    min: 1.7
+    max: 49.2
+    median: 2.6
+    p95: 7.5
+    p99: 23.7
+  Codes:
+    200: 200
+
+All virtual users finished
+Summary report @ 06:38:40(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 142.86
+  Request latency:
+    min: 1.7
+    max: 49.2
+    median: 2.6
+    p95: 7.5
+    p99: 23.7
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    200: 200
+
+Started phase 0, duration: 1s @ 06:41:12(-0700) 2018-06-24
+Report @ 06:41:14(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 142.86
+  Request latency:
+    min: 5.6
+    max: 46.1
+    median: 8.2
+    p95: 16.8
+    p99: 33.7
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 06:41:14(-0700) 2018-06-24
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 139.86
+  Request latency:
+    min: 5.6
+    max: 46.1
+    median: 8.2
+    p95: 16.8
+    p99: 33.7
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:03:59(-0700) 2018-06-30
+Report @ 07:04:01(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.5
+    max: 158.6
+    median: 8.1
+    p95: 27.5
+    p99: 59.6
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:04:01(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.5
+    max: 158.6
+    median: 8.1
+    p95: 27.5
+    p99: 59.6
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:05:16(-0700) 2018-06-30
+Report @ 07:05:17(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 42.6
+    median: 6.8
+    p95: 12.1
+    p99: 37.2
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:05:17(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.4
+    max: 42.6
+    median: 6.8
+    p95: 12.1
+    p99: 37.2
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:18:25(-0700) 2018-06-30
+Report @ 07:18:26(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.5
+    max: 50.4
+    median: 7.3
+    p95: 20.7
+    p99: 39.8
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:18:26(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.5
+    max: 50.4
+    median: 7.3
+    p95: 20.7
+    p99: 39.8
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:19:22(-0700) 2018-06-30
+Report @ 07:19:24(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.8
+    max: 43
+    median: 7.8
+    p95: 17.6
+    p99: 29.2
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:19:24(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.8
+    max: 43
+    median: 7.8
+    p95: 17.6
+    p99: 29.2
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:25:06(-0700) 2018-06-30
+Report @ 07:25:07(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 143.88
+  Request latency:
+    min: 4.5
+    max: 42.1
+    median: 7.3
+    p95: 16.3
+    p99: 32.9
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:25:07(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.5
+    max: 42.1
+    median: 7.3
+    p95: 16.3
+    p99: 32.9
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:26:23(-0700) 2018-06-30
+Report @ 07:26:24(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.5
+    max: 39.3
+    median: 7.3
+    p95: 18.7
+    p99: 33.7
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:26:24(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.5
+    max: 39.3
+    median: 7.3
+    p95: 18.7
+    p99: 33.7
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:28:41(-0700) 2018-06-30
+Report @ 07:28:42(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.4
+    max: 39
+    median: 7.1
+    p95: 18.5
+    p99: 32.7
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:28:42(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 39
+    median: 7.1
+    p95: 18.5
+    p99: 32.7
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:30:56(-0700) 2018-06-30
+Report @ 07:30:58(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 39.7
+    median: 7.2
+    p95: 14.4
+    p99: 32.9
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:30:58(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 39.7
+    median: 7.2
+    p95: 14.4
+    p99: 32.9
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:31:46(-0700) 2018-06-30
+Report @ 07:31:48(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.4
+    max: 41.1
+    median: 7.3
+    p95: 18
+    p99: 34.1
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:31:48(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 41.1
+    median: 7.3
+    p95: 18
+    p99: 34.1
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:33:21(-0700) 2018-06-30
+Report @ 07:33:23(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 40.9
+    median: 6.9
+    p95: 13.8
+    p99: 25.3
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:33:23(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 40.9
+    median: 6.9
+    p95: 13.8
+    p99: 25.3
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:33:55(-0700) 2018-06-30
+Report @ 07:33:56(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 42
+    median: 7.4
+    p95: 18.3
+    p99: 30.9
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:33:56(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.4
+    max: 42
+    median: 7.4
+    p95: 18.3
+    p99: 30.9
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:34:25(-0700) 2018-06-30
+Report @ 07:34:26(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.4
+    max: 48.9
+    median: 7
+    p95: 20
+    p99: 36
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:34:26(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 48.9
+    median: 7
+    p95: 20
+    p99: 36
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 07:56:58(-0700) 2018-06-30
+Report @ 07:57:00(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 34.5
+    median: 6.9
+    p95: 17.1
+    p99: 30.3
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 07:57:00(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.4
+    max: 34.5
+    median: 6.9
+    p95: 17.1
+    p99: 30.3
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 08:00:37(-0700) 2018-06-30
+Report @ 08:00:39(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.4
+    max: 56.7
+    median: 7.6
+    p95: 17.5
+    p99: 38.4
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 08:00:39(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.4
+    max: 56.7
+    median: 7.6
+    p95: 17.5
+    p99: 38.4
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 08:07:29(-0700) 2018-06-30
+Report @ 08:07:30(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.5
+    max: 41.8
+    median: 7.2
+    p95: 19.7
+    p99: 37.9
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 08:07:30(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.5
+    max: 41.8
+    median: 7.2
+    p95: 19.7
+    p99: 37.9
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 08:08:48(-0700) 2018-06-30
+Report @ 08:08:50(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.4
+    max: 43.3
+    median: 6.8
+    p95: 12.8
+    p99: 32.4
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 08:08:50(-0700) 2018-06-30
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 137.93
+  Request latency:
+    min: 4.4
+    max: 43.3
+    median: 6.8
+    p95: 12.8
+    p99: 32.4
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 02:25:24(-0700) 2018-07-01
+Report @ 02:25:26(-0700) 2018-07-01
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 4.6
+    max: 45.5
+    median: 5.8
+    p95: 9
+    p99: 31.1
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 02:25:26(-0700) 2018-07-01
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 138.89
+  Request latency:
+    min: 4.6
+    max: 45.5
+    median: 5.8
+    p95: 9
+    p99: 31.1
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 02:10:35(-0700) 2018-07-13
+Report @ 02:10:37(-0700) 2018-07-13
+  Scenarios launched:  5
+  Scenarios completed: 5
+  Requests completed:  25
+  RPS sent: 19.69
+  Request latency:
+    min: 7.3
+    max: 55.3
+    median: 10.6
+    p95: 31.1
+    p99: 55.3
+  Codes:
+    404: 25
+
+All virtual users finished
+Summary report @ 02:10:37(-0700) 2018-07-13
+  Scenarios launched:  5
+  Scenarios completed: 5
+  Requests completed:  25
+  RPS sent: 19.53
+  Request latency:
+    min: 7.3
+    max: 55.3
+    median: 10.6
+    p95: 31.1
+    p99: 55.3
+  Scenario counts:
+    0: 5 (100%)
+  Codes:
+    404: 25
+
+Started phase 0, duration: 1s @ 02:15:29(-0700) 2018-07-13
+Report @ 02:15:31(-0700) 2018-07-13
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 141.84
+  Request latency:
+    min: 5.1
+    max: 60.7
+    median: 7.8
+    p95: 18.6
+    p99: 39.5
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 02:15:31(-0700) 2018-07-13
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 139.86
+  Request latency:
+    min: 5.1
+    max: 60.7
+    median: 7.8
+    p95: 18.6
+    p99: 39.5
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 1s @ 02:16:23(-0700) 2018-07-13
+Report @ 02:16:24(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  400
+  RPS sent: 273.97
+  Request latency:
+    min: 4.9
+    max: 254.9
+    median: 13.5
+    p95: 81
+    p99: 141.5
+  Codes:
+    404: 400
+
+All virtual users finished
+Summary report @ 02:16:24(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  400
+  RPS sent: 272.11
+  Request latency:
+    min: 4.9
+    max: 254.9
+    median: 13.5
+    p95: 81
+    p99: 141.5
+  Scenario counts:
+    0: 20 (100%)
+  Codes:
+    404: 400
+
+Started phase 0, duration: 1s @ 02:17:45(-0700) 2018-07-13
+Report @ 02:17:47(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  400
+  RPS sent: 283.69
+  Request latency:
+    min: 5.7
+    max: 178.4
+    median: 13.2
+    p95: 72.8
+    p99: 136.1
+  Codes:
+    404: 400
+
+All virtual users finished
+Summary report @ 02:17:47(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  400
+  RPS sent: 281.69
+  Request latency:
+    min: 5.7
+    max: 178.4
+    median: 13.2
+    p95: 72.8
+    p99: 136.1
+  Scenario counts:
+    0: 20 (100%)
+  Codes:
+    404: 400
+
+Started phase 0, duration: 1s @ 02:22:59(-0700) 2018-07-13
+Report @ 02:23:00(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  200
+  RPS sent: 136.99
+  Request latency:
+    min: 4.7
+    max: 47.8
+    median: 8.4
+    p95: 26.2
+    p99: 40.6
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 02:23:00(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  200
+  RPS sent: 135.14
+  Request latency:
+    min: 4.7
+    max: 47.8
+    median: 8.4
+    p95: 26.2
+    p99: 40.6
+  Scenario counts:
+    0: 20 (100%)
+  Codes:
+    404: 200
+
+Started phase 0, duration: 22s @ 02:24:17(-0700) 2018-07-13
+Report @ 02:24:27(-0700) 2018-07-13
+  Scenarios launched:  499
+  Scenarios completed: 498
+  Requests completed:  1993
+  RPS sent: 199.4
+  Request latency:
+    min: 5.4
+    max: 34
+    median: 7.7
+    p95: 11.7
+    p99: 19.2
+  Codes:
+    404: 1993
+
+Report @ 02:24:37(-0700) 2018-07-13
+  Scenarios launched:  503
+  Scenarios completed: 502
+  Requests completed:  2010
+  RPS sent: 200.9
+  Request latency:
+    min: 5.2
+    max: 66.9
+    median: 7.7
+    p95: 12.2
+    p99: 25.3
+  Codes:
+    404: 2010
+
+Report @ 02:24:40(-0700) 2018-07-13
+  Scenarios launched:  98
+  Scenarios completed: 100
+  Requests completed:  397
+  RPS sent: 161.22
+  Request latency:
+    min: 5.7
+    max: 32.4
+    median: 8.2
+    p95: 12
+    p99: 20
+  Codes:
+    404: 397
+
+All virtual users finished
+Summary report @ 02:24:40(-0700) 2018-07-13
+  Scenarios launched:  1100
+  Scenarios completed: 1100
+  Requests completed:  4400
+  RPS sent: 194.95
+  Request latency:
+    min: 5.2
+    max: 66.9
+    median: 7.7
+    p95: 11.8
+    p99: 21.2
+  Scenario counts:
+    0: 1100 (100%)
+  Codes:
+    404: 4400
+
+Started phase 0, duration: 1s @ 02:30:51(-0700) 2018-07-13
+Report @ 02:30:59(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  2500
+  RPS sent: 318.07
+  Request latency:
+    min: 6.8
+    max: 620.8
+    median: 88.1
+    p95: 172.9
+    p99: 286.3
+  Codes:
+    404: 2500
+
+All virtual users finished
+Summary report @ 02:30:59(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  2500
+  RPS sent: 317.26
+  Request latency:
+    min: 6.8
+    max: 620.8
+    median: 88.1
+    p95: 172.9
+    p99: 286.3
+  Scenario counts:
+    0: 50 (100%)
+  Codes:
+    404: 2500
+
+Started phase 0, duration: 1s @ 02:32:08(-0700) 2018-07-13
+Report @ 02:32:13(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  1500
+  RPS sent: 307.38
+  Request latency:
+    min: 5.2
+    max: 531.8
+    median: 78.4
+    p95: 225.9
+    p99: 368.7
+  Codes:
+    404: 1500
+
+All virtual users finished
+Summary report @ 02:32:13(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  1500
+  RPS sent: 306.75
+  Request latency:
+    min: 5.2
+    max: 531.8
+    median: 78.4
+    p95: 225.9
+    p99: 368.7
+  Scenario counts:
+    0: 50 (100%)
+  Codes:
+    404: 1500
+
+Started phase 0, duration: 1s @ 02:33:37(-0700) 2018-07-13
+Report @ 02:33:43(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  2000
+  RPS sent: 305.34
+  Request latency:
+    min: 7
+    max: 565.8
+    median: 84.9
+    p95: 184.2
+    p99: 313
+  Codes:
+    404: 2000
+
+All virtual users finished
+Summary report @ 02:33:43(-0700) 2018-07-13
+  Scenarios launched:  50
+  Scenarios completed: 50
+  Requests completed:  2000
+  RPS sent: 304.41
+  Request latency:
+    min: 7
+    max: 565.8
+    median: 84.9
+    p95: 184.2
+    p99: 313
+  Scenario counts:
+    0: 50 (100%)
+  Codes:
+    404: 2000
+
+Started phase 0, duration: 1s @ 02:35:50(-0700) 2018-07-13
+Report @ 02:35:55(-0700) 2018-07-13
+  Scenarios launched:  40
+  Scenarios completed: 40
+  Requests completed:  1600
+  RPS sent: 314.96
+  Request latency:
+    min: 7.1
+    max: 513
+    median: 64.4
+    p95: 230.8
+    p99: 327.7
+  Codes:
+    404: 1600
+
+All virtual users finished
+Summary report @ 02:35:55(-0700) 2018-07-13
+  Scenarios launched:  40
+  Scenarios completed: 40
+  Requests completed:  1600
+  RPS sent: 314.34
+  Request latency:
+    min: 7.1
+    max: 513
+    median: 64.4
+    p95: 230.8
+    p99: 327.7
+  Scenario counts:
+    0: 40 (100%)
+  Codes:
+    404: 1600
+
+Started phase 0, duration: 1s @ 05:36:14(-0700) 2018-07-13
+Report @ 05:36:24(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 0
+  Requests completed:  3633
+  RPS sent: 366.67
+  Request latency:
+    min: 7.1
+    max: 588.7
+    median: 22.6
+    p95: 155.2
+    p99: 258
+  Codes:
+    404: 3633
+
+Report @ 05:36:34(-0700) 2018-07-13
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  3927
+  RPS sent: 390.75
+  Request latency:
+    min: 7
+    max: 789.4
+    median: 21.3
+    p95: 157.2
+    p99: 257.3
+  Codes:
+    404: 3927
+
+Report @ 05:36:44(-0700) 2018-07-13
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  3823
+  RPS sent: 380.4
+  Request latency:
+    min: 7.1
+    max: 1379.7
+    median: 19
+    p95: 159
+    p99: 252.2
+  Codes:
+    404: 3823
+
+Report @ 05:36:54(-0700) 2018-07-13
+  Scenarios launched:  0
+  Scenarios completed: 0
+  Requests completed:  3733
+  RPS sent: 371.17
+  Request latency:
+    min: 7.1
+    max: 1551.3
+    median: 15.3
+    p95: 167.1
+    p99: 270.3
+  Codes:
+    404: 3733
+
+Report @ 05:37:04(-0700) 2018-07-13
+  Scenarios launched:  0
+  Scenarios completed: 2
+  Requests completed:  3738
+  RPS sent: 372.65
+  Request latency:
+    min: 7.1
+    max: 1074.7
+    median: 17.7
+    p95: 170.9
+    p99: 268.4
+  Codes:
+    404: 3738
+
+Report @ 05:37:08(-0700) 2018-07-13
+  Scenarios launched:  0
+  Scenarios completed: 18
+  Requests completed:  1146
+  RPS sent: 319.21
+  Request latency:
+    min: 4.7
+    max: 276.4
+    median: 11.7
+    p95: 105.5
+    p99: 173.4
+  Codes:
+    404: 1146
+
+All virtual users finished
+Summary report @ 05:37:08(-0700) 2018-07-13
+  Scenarios launched:  20
+  Scenarios completed: 20
+  Requests completed:  20000
+  RPS sent: 370.3
+  Request latency:
+    min: 4.7
+    max: 1551.3
+    median: 18.3
+    p95: 159.2
+    p99: 258
+  Scenario counts:
+    0: 20 (100%)
+  Codes:
+    404: 20000
+
+** SIEGEM 0.1.0
+** Preparing users for battle.
+The server is now under siege...
+[35mHTTP/1.1 404     47 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     47 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     47 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     47 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     16 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404     15 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+[35mHTTP/1.1 404      0 ms:      1053 bytes ==> GET /phpproject/page1/[39m
+
+Lifting the server siege...
+
+
+Transactions:                    200 
+Availability:                      0 %
+Elapsed time:                  0.672 s
+Response time:                 12.41 ms
+Transaction rate:            297.619 trans/sec
+Average Concurrency:           3.929 
+Successful transactions:           0 
+Failed transactions:             200 
+Longest transaction:              47 ms
+90th percentile:                  16 ms
+50th percentile:                  15 ms
+Shortest transaction:              0 ms
+Started phase 0, duration: 1s @ 05:39:53(-0700) 2018-07-16
+Report @ 05:39:55(-0700) 2018-07-16
+  Scenarios launched:  40
+  Scenarios completed: 40
+  Requests completed:  120
+  RPS sent: 81.08
+  Request latency:
+    min: 5.1
+    max: 98.2
+    median: 5.9
+    p95: 18.8
+    p99: 89.2
+  Codes:
+    404: 120
+
+All virtual users finished
+Summary report @ 05:39:55(-0700) 2018-07-16
+  Scenarios launched:  40
+  Scenarios completed: 40
+  Requests completed:  120
+  RPS sent: 80.54
+  Request latency:
+    min: 5.1
+    max: 98.2
+    median: 5.9
+    p95: 18.8
+    p99: 89.2
+  Scenario counts:
+    0: 40 (100%)
+  Codes:
+    404: 120
+
+Started phase 0, duration: 1s @ 05:50:27(-0700) 2018-07-16
+Report @ 05:50:29(-0700) 2018-07-16
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 142.86
+  Request latency:
+    min: 4.9
+    max: 17.9
+    median: 5.9
+    p95: 7.9
+    p99: 12.4
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 05:50:29(-0700) 2018-07-16
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.9
+    max: 17.9
+    median: 5.9
+    p95: 7.9
+    p99: 12.4
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+

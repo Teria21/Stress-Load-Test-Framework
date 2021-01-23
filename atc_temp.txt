@@ -1,0 +1,20 @@
+Running 5s test @ http://localhost/phpproject/page1/
+100 connections with 10 pipelining factor
+
+Stat         Avg     Stdev  Max     
+Latency (ms) 224.05  672.49 4750.89 
+Req/Sec      717.34  203.24 867     
+Bytes/Sec    1.08 MB 286 kB 1.28 MB 
+
+0 2xx responses, 2152 non 2xx responses
+2k requests in 6s, 3.19 MB read
+Running 5s test @ http://localhost/phpproject/page1/
+100 connections with 10 pipelining factor
+
+Stat         Avg    Stdev  Max     
+Latency (ms) 223.37 647.59 4524.11 
+Req/Sec      616.5  308.08 934     
+Bytes/Sec    924 kB 454 kB 1.38 MB 
+
+0 2xx responses, 2466 non 2xx responses
+2k requests in 7s, 3.65 MB read

@@ -1,0 +1,5 @@
+Benchmarking 1000 iteration(s) using up to 50 concurrent connections
+
+flow:  http://localhost/phpproject/page1.php
+[2KProgress [=                                     ] 5% 0.0s conc:50 50/s[2KProgress [===                                   ] 10% 9.0s conc:50 50/s[2KProgress [=====                                 ] 15% 11.4s conc:50 50/s[2KProgress [=======                               ] 20% 12.0s conc:50 50/s[2KProgress [=========                             ] 25% 12.0s conc:50 50/s[2KProgress [===========                           ] 30% 11.7s conc:50 50/s[2KProgress [=============                         ] 35% 11.2s conc:50 49/s[2KProgress [===============                       ] 40% 10.5s conc:50 50/s[2KProgress [=================                     ] 45% 9.8s conc:50 50/s[2KProgress [===================                   ] 50% 9.0s conc:50 50/s[2KProgress [=====================                 ] 55% 8.2s conc:50 50/s
+User interrupt: exiting...

@@ -1,0 +1,32 @@
+Started phase 0, duration: 1s @ 05:50:27(-0700) 2018-07-16
+Report @ 05:50:29(-0700) 2018-07-16
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 142.86
+  Request latency:
+    min: 4.9
+    max: 17.9
+    median: 5.9
+    p95: 7.9
+    p99: 12.4
+  Codes:
+    404: 200
+
+All virtual users finished
+Summary report @ 05:50:29(-0700) 2018-07-16
+  Scenarios launched:  10
+  Scenarios completed: 10
+  Requests completed:  200
+  RPS sent: 140.85
+  Request latency:
+    min: 4.9
+    max: 17.9
+    median: 5.9
+    p95: 7.9
+    p99: 12.4
+  Scenario counts:
+    0: 10 (100%)
+  Codes:
+    404: 200
+
